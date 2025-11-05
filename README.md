@@ -1,8 +1,6 @@
 #🧑‍💻 Isaac Bertonha
 
-**`Desenvolvedor Backend`**
-
-Me chamo Isaac Vitor Silva Bertonha, tenho 21 anos e sou natural de Campinas-SP. Atualmente, curso Engenharia de Software na PUC-Campinas e tenho grande interesse em desenvolvimento backend. Sou apaixonado por tecnologia e sempre busco novos desafios para aprimorar minhas habilidades e conhecimentos na área.
+Me chamo Isaac Vitor Silva Bertonha, tenho 21 anos e sou natural de Campinas-SP. Atualmente, curso Engenharia de Software na PUC-Campinas e tenho grande interesse em Dados e desenvolvimento backend. Sou apaixonado por tecnologia e sempre busco novos desafios para aprimorar minhas habilidades e conhecimentos na área.
 ---
 
 ### 🤖 Linguagens e Tecnologias
